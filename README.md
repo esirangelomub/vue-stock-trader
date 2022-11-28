@@ -1,4 +1,4 @@
-# stock-trader
+# Vue Stock-trader
 
 ## Project setup
 ```
